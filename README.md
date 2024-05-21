@@ -1,4 +1,9 @@
 ### Hi there 👋, I'm Sarah Diaz
+<br>
+<h6>
+Bachelor of Science Computer Science
+Expected Grad Date: December 2024
+</h6>
 
 <!--
 **SarahDiazZ/SarahDiazZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
