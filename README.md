@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Sarah Diaz
-<br>
+--------
 <h6>
 Bachelor of Science Computer Science
+</h6>
+<h6>
 Expected Grad Date: December 2024
 </h6>
 
