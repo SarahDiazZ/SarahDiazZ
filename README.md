@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Sarah Diaz
 
-- :mortar_board: Bachelor of Science; Computer Science
-- :date: Expected Graduation Date: December 2024
+###### :mortar_board: Bachelor of Science; Computer Science
+###### :date: Expected Graduation Date: December 2024
 
 * 😄 Pronouns: She/Her
 * 🌱 I’m currently learning: **TypeScript, Swift, Kubernetes**
