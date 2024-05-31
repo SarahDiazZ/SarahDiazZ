@@ -1,11 +1,11 @@
-### Hi there 👋, I'm Sarah Diaz
+# Hi there 👋, I'm Sarah Diaz
 --------
-<h6>
-Bachelor of Science Computer Science
-</h6>
-<h6>
-Expected Grad Date: December 2024
-</h6>
+## Bachelor of Science; Computer Science
+## Expected Graduation Date: December 2024
+
+😄 Pronouns: She/Her
+🌱 I’m currently learning: **TypeScript, Swift, Kubernetes**
+⚡ Fun fact: I want to be an astronaut and I do archery
 
 <!--
 **SarahDiazZ/SarahDiazZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
