@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I aspire to be an astronaut :rocket: and enjoy practicing archery :dart:
 - :pushpin: **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/sarah-diaz-/), [Github](https://github.com/SarahDiazZ)
-- 📫 **How to reach me:** [Email](diazsarah30@gmail.com)
+- 📫 **How to reach me:** [Email](mailto:diazsarah30@gmail.com)
 
 <!--
 **SarahDiazZ/SarahDiazZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
