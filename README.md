@@ -5,7 +5,7 @@
 
 * 😄 Pronouns: She/Her
 * 🌱 I’m currently learning: **TypeScript, Swift, Kubernetes**
-* ⚡ Fun fact: I want to be an astronaut and I do archery
+* ⚡ Fun fact: I aspire to be an astronaut :rocket: and enjoy practicing archery :dart:
 
 <!--
 **SarahDiazZ/SarahDiazZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
