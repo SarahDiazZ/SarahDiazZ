@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/Her
 - 🌱 I'm currently learning: **TypeScript, Swift, Kubernetes**
 - :briefcase: Professional Interests: Cybersecurity, full-stack development, databases, and space technology
-- :rocket: Career Goal: To work in a role that combines my passion for techonology and space exploration
+- :rocket: Career Goal: To work in a role that combines my passion for technology and space exploration
 
 - :wrench: Skills: HTML, CSS, JavaScript, Node.js, MongoDB, Python, Git, Plaid API, MySQL, Python, C, Java
 - :trophy: Notable Experience:
@@ -14,7 +14,7 @@
     * **Finance Web Application:** Developed a finance app with features for tracking expenses and managing bills
 
 - ⚡ Fun fact: I aspire to be an astronaut :rocket: and enjoy practicing archery :dart:
-- :pushpin: **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/sarah-diaz-/), [Github](https://github.com/SarahDiazZ)
+- :pushpin: **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/sarah-diaz-/)
 - 📫 **How to reach me:** [Email](mailto:diazsarah30@gmail.com)
 
 <!--
