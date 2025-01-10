@@ -4,7 +4,7 @@
 #### :date: Expected Graduation Date: December 2024
 
 - 😄 Pronouns: She/Her
-- 🌱 I'm currently learning: **TypeScript, Swift, Kubernetes**
+- 🌱 I'm currently learning: **TypeScript, React Native**
 - :briefcase: Professional Interests: Cybersecurity, full-stack development, databases, and space technology
 - :rocket: Career Goal: To work in a role that combines my passion for technology and space exploration
 
