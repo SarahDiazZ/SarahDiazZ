@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Sarah Diaz
 
 #### :mortar_board: Bachelor of Science in Computer Science
-#### :date: Expected Graduation Date: December 2024
+#### :date: Graduation Date: December 2024
 
 - 😄 Pronouns: She/Her
 - 🌱 I'm currently learning: **TypeScript, React Native**
@@ -12,6 +12,7 @@
 - :trophy: Notable Experience:
     * **Cybersecurity Hackathon:** Won 2nd place in the advanced category at the GMiS conference
     * **Finance Web Application:** Developed a finance app with features for tracking expenses and managing bills
+    * **GrubGoals:** Developed a meal planner app with features for recipe making and dietary restrictions 
 
 - ⚡ Fun fact: I aspire to be an astronaut :rocket: and enjoy practicing archery :dart:
 - :pushpin: **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/sarah-diaz-/)
