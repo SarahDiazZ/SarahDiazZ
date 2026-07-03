@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/Her
 - 🌱 I'm currently learning: **Application Security** and how to integrate AI features into what I build
 - :briefcase: Professional Interests: Application Security, full-stack development, and space technology
-- :rocket: Career Goal: To grow into Application Security while building secure, impactful full-stack applications — ideally ones that reach for the stars (literally)
+- :rocket: Career Goal: To grow into Application Security while building secure, impactful full-stack applications
 
 - :wrench: Skills: C#, SQL, JavaScript, Node.js, Python, Java, C, HTML, CSS, MongoDB, MySQL, Git, Plaid API
 - :trophy: Notable Experience:
